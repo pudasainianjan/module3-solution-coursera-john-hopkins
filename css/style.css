@@ -1,0 +1,36 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen', sans-serif;
+  }
+
+  .foods{
+      border: 0;
+      background-color: darkgrey;
+  }
+  #nav-list {
+      background-color:dimgrey ;
+      
+  }
+  #nav-list li{
+      border: 1px solid black;
+  }
+  #nav-list li:nth-child(3){
+      border-bottom: 2px solid black;
+  }
+
+  #nav-list a:hover{
+    background-color: #e7e7e7;
+    color: black;
+  }
+  .content, .food-title{
+      color: black;
+      font-weight: 500;
+  }
+
+  p{
+      font-size: .8em;
+  }
+
+ 
+  
